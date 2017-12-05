@@ -1,0 +1,6 @@
+C:\xampp\htdocs\area-calculator\area-calculator\area-calculator\bin\Debug\area-calculator.exe.config
+C:\xampp\htdocs\area-calculator\area-calculator\area-calculator\bin\Debug\area-calculator.exe
+C:\xampp\htdocs\area-calculator\area-calculator\area-calculator\bin\Debug\area-calculator.pdb
+C:\xampp\htdocs\area-calculator\area-calculator\area-calculator\obj\Debug\area-calculator.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\area-calculator\area-calculator\area-calculator\obj\Debug\area-calculator.exe
+C:\xampp\htdocs\area-calculator\area-calculator\area-calculator\obj\Debug\area-calculator.pdb
