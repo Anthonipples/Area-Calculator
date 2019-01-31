@@ -4,3 +4,10 @@ C:\xampp\htdocs\area-calculator\area-calculator\area-calculator\bin\Debug\area-c
 C:\xampp\htdocs\area-calculator\area-calculator\area-calculator\obj\Debug\area-calculator.csproj.CoreCompileInputs.cache
 C:\xampp\htdocs\area-calculator\area-calculator\area-calculator\obj\Debug\area-calculator.exe
 C:\xampp\htdocs\area-calculator\area-calculator\area-calculator\obj\Debug\area-calculator.pdb
+C:\Users\Anthony\Documents\GitHub\Area-Calculator\area-calculator\bin\Debug\area-calculator.exe.config
+C:\Users\Anthony\Documents\GitHub\Area-Calculator\area-calculator\bin\Debug\area-calculator.exe
+C:\Users\Anthony\Documents\GitHub\Area-Calculator\area-calculator\bin\Debug\area-calculator.pdb
+C:\Users\Anthony\Documents\GitHub\Area-Calculator\area-calculator\obj\Debug\area-calculator.csprojAssemblyReference.cache
+C:\Users\Anthony\Documents\GitHub\Area-Calculator\area-calculator\obj\Debug\area-calculator.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Documents\GitHub\Area-Calculator\area-calculator\obj\Debug\area-calculator.exe
+C:\Users\Anthony\Documents\GitHub\Area-Calculator\area-calculator\obj\Debug\area-calculator.pdb
